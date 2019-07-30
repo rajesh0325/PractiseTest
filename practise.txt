@@ -1,8 +1,1 @@
-Hi,
-This Rajesh
-Bye
-Thank You
-New bug fix
-Load testing
-Testcase fix
-New Bug fix
+Its fresh page
