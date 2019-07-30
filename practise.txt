@@ -1,2 +1,6 @@
 New
+<<<<<<< HEAD
 Testing Myself
+=======
+Test1
+>>>>>>> upstream/Lab
